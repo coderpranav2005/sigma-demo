@@ -1,2 +1,2 @@
 # sigma-demo
-this repo for understanding of github
+this repo for understanding of git & github.
